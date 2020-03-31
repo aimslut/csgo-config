@@ -8,4 +8,6 @@ charlie's csgo config
 3. Add these launch options to csgo, and change where necessary 
     `-noborder -high -novid -console -freq 240 -refresh 240 -exec memes +exec memes -nojoy -noforcemparms -noforcemaccel +exec memes.cfg`
 4. Open the CFG and change whatever you like
-5. Done! :D
+5. Done! B)
+
+ps. if you ever get confused in-game, you can type `cfg_help` :-)
